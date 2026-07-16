@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AshishSoni021/AshishSoni021/output/github-contribution-grid-snake-dark.svg" alt="Red Snake Animation" />
+</p>
